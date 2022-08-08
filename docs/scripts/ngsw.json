@@ -1,0 +1,68 @@
+{
+  "configVersion": 1,
+  "timestamp": 1659994877179,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/254.fde4da33f0414c9b.js",
+        "/682.a7181c08ec7e1f99.js",
+        "/728.79b41597a645c709.js",
+        "/favicon.ico",
+        "/main.f73e6b87db91d1e7.js",
+        "/polyfills.578ac00f2cd1f8d5.js",
+        "/runtime.4c70d1736cd69bba.js",
+        "/scripts.30a2fd717dcd9576.js",
+        "/styles.5f336eb0770a5825.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/254.fde4da33f0414c9b.js": "0687c108866883346f36e53d1dc656e65060dfaf",
+    "/682.a7181c08ec7e1f99.js": "c47ecd83256744edc6f275564c8776c16cedd801",
+    "/728.79b41597a645c709.js": "64dac482098600fa1dc4065c0a7bedac27e2efef",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/main.f73e6b87db91d1e7.js": "8a63492c0a0875849eebeb23a938931790af541b",
+    "/polyfills.578ac00f2cd1f8d5.js": "6f9bb5d237a6d3e83417d3b3ffa151776fdf7fa5",
+    "/runtime.4c70d1736cd69bba.js": "99d8d39be056c6c456bba71d5c4a35d9f682e8ec",
+    "/scripts.30a2fd717dcd9576.js": "2ff455acf5c966cd0d65b8e4bd99b165abfd3354",
+    "/styles.5f336eb0770a5825.css": "0cb6ca5fdd9c3b330cca4f843a336c341a01adbe"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
