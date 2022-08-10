@@ -1,5 +1,5 @@
 const SITE_CONFIG = {
-	apiBaseUri: 'https://localhost:5001/',
+	siteName='少不丁诗集',
 	staticReadonly: true,
 	hasSecondary: true,
 	isSecondary: false
