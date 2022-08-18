@@ -1,21 +1,24 @@
 /* roboto-regular - latin */
+/* ma-shan-zheng-regular - latin_chinese-simplified */
 @font-face {
-	font-family: 'Roboto';
-	font-style: normal;
-	font-weight: 400;
-	src: local(''), url('assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-	url('assets/fonts/') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  font-family: 'Ma Shan Zheng';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+	   url('assets/fonts/chinese/ma-shan-zheng-v10-latin_chinese-simplified-regular.woff2') format('woff2');
 }
 
 .poem-text {
-	font-family: Roboto;
-	font-size: medium;
+	font-family: "Ma Shan Zheng";
+	font-size: x-large;
+	font-weight:500;
 	line-height: normal;
 }
 
 article.poem {
-	font-family: Roboto;
-	font-size: large;
+	font-family: "Ma Shan Zheng";
+	font-size: x-large;
+	font-weight: 500;
 	color: darkblue;
 	line-height: normal;
 }

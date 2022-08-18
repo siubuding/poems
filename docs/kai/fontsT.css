@@ -1,0 +1,23 @@
+/* noto-serif-hk-regular - latin_chinese-hongkong https://google-webfonts-helper.herokuapp.com/fonts/noto-serif-hk?subsets=chinese-hongkong,latin*/
+@font-face {
+  font-family: 'Noto Serif HK';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('assets/fonts/chinese/noto-serif-hk-v2-latin_chinese-hongkong-regular.woff2') format('woff2');
+}
+
+.poem-text {
+	font-family: "Noto Serif HK";
+	font-size: x-large;
+	font-weight: 500;
+	line-height: normal;
+}
+
+article.poem {
+	font-family: "Noto Serif HK";
+	font-size: x-large;
+	font-weight: 500;
+	color: darkblue;
+	line-height: normal;
+}
