@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1660826513236,
-  "index": "/index.html",
+  "timestamp": 1661163215484,
+  "index": "/en-US/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/254.b5ac209b98335b09.js",
-        "/574.d95ce62171f17e4b.js",
-        "/682.b50559b68c75b783.js",
-        "/main.125f3eb58d384b32.js",
-        "/polyfills.578ac00f2cd1f8d5.js",
-        "/runtime.f5d8dd5b28265af0.js",
-        "/scripts.3977d7a9b5958b8b.js",
-        "/styles.76edeb60ca839bee.css"
+        "/en-US/254.cefbd146591e267c.js",
+        "/en-US/574.233a57875179063a.js",
+        "/en-US/682.a6c4d49173382ae2.js",
+        "/en-US/main.b0a7b3a7af7d2754.js",
+        "/en-US/polyfills.9ce3defc1e550c5c.js",
+        "/en-US/runtime.79cb810316e747c2.js",
+        "/en-US/scripts.d6e5059dff32a626.js",
+        "/en-US/styles.4bac19a9d3671056.css"
       ],
       "patterns": []
     },
@@ -30,22 +30,22 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.png"
+        "/en-US/favicon.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/254.b5ac209b98335b09.js": "e56ed0c4224460b0df794d59b76a318a99e1a3d3",
-    "/574.d95ce62171f17e4b.js": "e1e6a21e8a40e92fb38ceb4c1dc22748b9c6b9af",
-    "/682.b50559b68c75b783.js": "43ea2d45ee0cb041ec785a4ada640ad30c696ee5",
-    "/favicon.png": "ceed91f95e7fe8adc5fcb00943ed3ca2388b1bfd",
-    "/main.125f3eb58d384b32.js": "366e5eef2aa1071553d518189e99db824ec9e1ca",
-    "/polyfills.578ac00f2cd1f8d5.js": "6f9bb5d237a6d3e83417d3b3ffa151776fdf7fa5",
-    "/runtime.f5d8dd5b28265af0.js": "0451c6472d1278482972db570f183f9f9a9f0593",
-    "/scripts.3977d7a9b5958b8b.js": "22154efa1ebebde17f8000cb33504cc16470130f",
-    "/styles.76edeb60ca839bee.css": "b3f09cac87e12a5012ca8c3fea2813ef80ce5e70"
+    "/en-US/254.cefbd146591e267c.js": "933d401f9fa5a56c66c2338e1a76a400c466d69a",
+    "/en-US/574.233a57875179063a.js": "1a0e5d03e7d733b5c665a1bf5ff962de075b6396",
+    "/en-US/682.a6c4d49173382ae2.js": "7f3ec83dd41c4d8fda642f1b059a1d8ad7ec2499",
+    "/en-US/favicon.png": "ceed91f95e7fe8adc5fcb00943ed3ca2388b1bfd",
+    "/en-US/main.b0a7b3a7af7d2754.js": "275e4829f97026fc8d883ad668d8bfeaf0248284",
+    "/en-US/polyfills.9ce3defc1e550c5c.js": "517129b51a4d958c63aa25c33455a15a4efb252e",
+    "/en-US/runtime.79cb810316e747c2.js": "d28b04a10923a32d45ca4aca7884bf4db0c7f6e0",
+    "/en-US/scripts.d6e5059dff32a626.js": "c2cc4917537365a03de594a418b9e7cabe78a046",
+    "/en-US/styles.4bac19a9d3671056.css": "1087cffc1ee705671816c3d8bd9e3f5687f2193a"
   },
   "navigationUrls": [
     {

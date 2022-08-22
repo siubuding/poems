@@ -29,9 +29,6 @@ THE SOFTWARE.
 @angular/common
 MIT
 
-@angular/compiler
-MIT
-
 @angular/core
 MIT
 
@@ -39,9 +36,6 @@ MIT
 MIT
 
 @angular/forms
-MIT
-
-@angular/localize
 MIT
 
 @angular/material
