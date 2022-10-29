@@ -1,8 +1,8 @@
 {
-	"name": "Sibuding Poetry",
-	"short_name": "Poetry",
+	"name": "Siubuding Poetry",
+	"short_name": "Siubuding",
 	"description": "Manage poems of a poet and publishing",
-	"id": "SibudingPoetryApp",
+	"id": "SibudingPoetryViewer",
 	"theme_color": "#1976d2",
 	"background_color": "#fafafa",
 	"display": "standalone",
