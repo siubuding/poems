@@ -10,7 +10,7 @@
 /* Default body in poem view*/
 .poem-text {
 	font-family: Roboto;
-	font-size: medium;
+	font-size: large;
 	line-height: normal;
 }
 
@@ -31,7 +31,7 @@ article.poem {
 
 /* Poem title in side nav */
 .poem-title-list {
-	font-size: medium;
+	font-size: large;
 }
 
 /* Title in album viewer */
@@ -44,11 +44,11 @@ article.poem {
 /* Album description */
 .album-text {
 	font-family: Roboto;
-	font-size: medium;
+	font-size: large;
 	line-height: normal;
 }
 
 /* Album title in side nav */
 .album-title-list {
-	font-size: medium;
+	font-size: large;
 }
