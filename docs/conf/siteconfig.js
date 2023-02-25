@@ -3,6 +3,7 @@ const SITE_CONFIG = {
 	staticReadonly: true,
 	copyPoemEnabled: true,
 	copyAlbumEnabled: true,
+	chronologyEnabled: true,
 	themeFile: 'deeppurple-amber.css',
 	staticDatas: [
 		{filename: 'primary', secondaryFilename: 'secondary'}
