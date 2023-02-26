@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1677314791333,
+  "timestamp": 1677389770362,
   "appData": "PoetryApp ServiceWorker",
   "index": "/index.html",
   "assetGroups": [
@@ -31,7 +31,7 @@
         "/894.4aba853ae61d28fa.js",
         "/main.642136331705daa0.js",
         "/polyfills.052931a774a7089b.js",
-        "/scripts.60f640a6b6afa36e.js"
+        "/scripts.9ac74c577cec962a.js"
       ],
       "patterns": []
     },
@@ -73,7 +73,7 @@
         "/assets/icons/material-icons/scss/mixins.scss",
         "/assets/icons/material-icons/unicode.json",
         "/assets/readme.MD",
-        "/assets/themes/deeppurple-amber.css"
+        "/assets/themes/theme.css"
       ],
       "patterns": []
     }
@@ -141,12 +141,12 @@
     "/assets/icons/material-icons/scss/mixins.scss": "05d30ff71d3a2493962947cf2d98be9026f7b7bc",
     "/assets/icons/material-icons/unicode.json": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
     "/assets/readme.MD": "06c5913f3d02b53d8d11834ac0689217b27a7640",
-    "/assets/themes/deeppurple-amber.css": "bf377d9449d4df8cf93c5b68fbebd01cc33033d4",
-    "/index.html": "1b1ff1e3d449502727ba4b87faa1911f6ffed0ef",
+    "/assets/themes/theme.css": "bf377d9449d4df8cf93c5b68fbebd01cc33033d4",
+    "/index.html": "8e3a5249ce74df7bab977a2018344eaf4e880740",
     "/main.642136331705daa0.js": "6b3fa7361b36fb9faea4fbac204fe06e7179f6be",
     "/polyfills.052931a774a7089b.js": "371c99b5f8f9d8461df017663d0c2acf1d6ca95e",
     "/runtime.669d739b6a4d64d6.js": "bc982254b22a0f9345d39493d755b82294948072",
-    "/scripts.60f640a6b6afa36e.js": "cb727febf159b0b08f717cca0e189ad5a727ae01",
+    "/scripts.9ac74c577cec962a.js": "e60625e2bb56b942eb6db0392a134cc91d1d40a3",
     "/styles.c6137ce7986e517a.css": "52f28f2498ca90c181a67d523ba78dd6a2d73ec2"
   },
   "navigationUrls": [
