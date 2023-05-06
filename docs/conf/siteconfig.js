@@ -4,7 +4,6 @@ const SITE_CONFIG = {
 	copyPoemEnabled: true,
 	copyAlbumEnabled: true,
 	chronologyEnabled: true,
-	themeFile: 'deeppurple-amber.css',
 	staticDatas: [
 		{filename: 'primary', secondaryFilename: 'secondary'}
 	]
