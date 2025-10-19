@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1760899058993,
+  "timestamp": 1760900824970,
   "appData": "PoetryApp ServiceWorker",
   "index": "/poems/index.html",
   "assetGroups": [
@@ -27,11 +27,11 @@
         "/poems/chunk-57ZRFP5O.js",
         "/poems/chunk-J6FBQ6LD.js",
         "/poems/chunk-NS453UWB.js",
-        "/poems/chunk-T54R62IT.js",
         "/poems/chunk-VDE7TQ43.js",
-        "/poems/main-HZKNQLAH.js",
+        "/poems/chunk-VYPETGY3.js",
+        "/poems/main-GUMUZAQG.js",
         "/poems/polyfills-XD5MMPJF.js",
-        "/poems/scripts-G355ZB2Q.js"
+        "/poems/scripts-JCQ4AZ64.js"
       ],
       "patterns": []
     },
@@ -166,11 +166,11 @@
     "/poems/chunk-57ZRFP5O.js": "9dda330195278120e1978ec4a58d1c0c8f9f0ce4",
     "/poems/chunk-J6FBQ6LD.js": "8e344cd6624d72d3f9f37133eff61e68a454b201",
     "/poems/chunk-NS453UWB.js": "8cbf19748c946ae959393580e0ae4d61dde6ce97",
-    "/poems/chunk-T54R62IT.js": "b69933c3401d0f122854399ef95c625e9107ad56",
     "/poems/chunk-VDE7TQ43.js": "e4cbe17281dc44752d99f8751bc178c38adb9350",
-    "/poems/main-HZKNQLAH.js": "e4cd20478c3915178960a3f9a0be1396f1c4f328",
+    "/poems/chunk-VYPETGY3.js": "c7e307f90fbd644a5471e37efc02c46adf51adc3",
+    "/poems/main-GUMUZAQG.js": "fb241ec0226a347c729f45a29dc65f24b429e3ca",
     "/poems/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/poems/scripts-G355ZB2Q.js": "563107089054a045e11fc8ca9539c47079037ae1",
+    "/poems/scripts-JCQ4AZ64.js": "16cc26fc67be1bc06f7675d8c578d8c0bd714096",
     "/poems/styles-U33Q4MXJ.css": "76490d853f0ee08453ae34adca6d9f20671e3610"
   },
   "navigationUrls": [
