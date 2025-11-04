@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1761538150343,
+  "timestamp": 1762293184156,
   "appData": "PoetryApp ServiceWorker",
   "index": "/poems/index.html",
   "assetGroups": [
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/poems/styles-RUUXDO6M.css"
+        "/poems/styles-NFUWV2O2.css"
       ],
       "patterns": []
     },
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/poems/chunk-AO5HAQVU.js",
-        "/poems/chunk-H2NDQN7U.js",
-        "/poems/chunk-IJVCWFTT.js",
-        "/poems/chunk-UWE6UISO.js",
-        "/poems/chunk-ZN2O3IPW.js",
-        "/poems/main-EIR7GOGF.js",
+        "/poems/chunk-6XDYK2HZ.js",
+        "/poems/chunk-A43NG7FF.js",
+        "/poems/chunk-DO5QLP6T.js",
+        "/poems/chunk-KHRH34XQ.js",
+        "/poems/chunk-OVYZLFIU.js",
+        "/poems/main-5UGA6AJH.js",
         "/poems/polyfills-XD5MMPJF.js",
-        "/poems/scripts-BKQSYWRH.js"
+        "/poems/scripts-KAO5YISW.js"
       ],
       "patterns": []
     },
@@ -156,17 +156,17 @@
     "/poems/assets/themes/pink-bluegrey.css": "29503a340abc50fd34a863d6bc5acb9b781a3aae",
     "/poems/assets/themes/purple-green.css": "5abbcd4b8e6c4524daa0f322762892422a7c71e1",
     "/poems/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/poems/chunk-AO5HAQVU.js": "92d5040e8cc2a9c6f4a2cde688461da7eee09351",
-    "/poems/chunk-H2NDQN7U.js": "1fe0e838586049faadba86497f52e586e5c792bc",
-    "/poems/chunk-IJVCWFTT.js": "9a1971be33db68ea45c316a8158ce69372a6f206",
-    "/poems/chunk-UWE6UISO.js": "958e75b417bc7783373d6b6b225a0eaa236f65fe",
-    "/poems/chunk-ZN2O3IPW.js": "0fe25f30d7a8abcbe291ad219a3af7dbe904ea6f",
-    "/poems/main-EIR7GOGF.js": "8096f9f9e9e65882666c4f787679eb6595bcc9bc",
+    "/poems/chunk-6XDYK2HZ.js": "aa5e09da063fe3268b04cfb5da177ed4a5c01fb6",
+    "/poems/chunk-A43NG7FF.js": "3a21d25d557b584e330f4cb8a871c703c27acd4e",
+    "/poems/chunk-DO5QLP6T.js": "1ad94f46ec078680787d4f7ae8ae3c1c08bf7cc7",
+    "/poems/chunk-KHRH34XQ.js": "5085c682861d97788bd546ad4abb647a35b3c951",
+    "/poems/chunk-OVYZLFIU.js": "7f5def433acd0278b361609884f8774d3b151fa6",
+    "/poems/main-5UGA6AJH.js": "c3abbe2915bf37c9edfea505d0f3b8f1013a686d",
     "/poems/media/material-symbols-outlined-latin-400-normal-37BO6YFN.woff": "dae9960bfaa91ce4df6006fc15e88799b11b12fb",
     "/poems/media/material-symbols-outlined-latin-400-normal-ANJC73TO.woff2": "99d06a5034b8069af23de59d297534ed596e5c65",
     "/poems/polyfills-XD5MMPJF.js": "b22bfeb80931257ef5074a5c716d3b2fa4af515a",
-    "/poems/scripts-BKQSYWRH.js": "2963201c2778093e60d751bf4165eadc74891664",
-    "/poems/styles-RUUXDO6M.css": "28aa19bb01c7f2d9382b9c34141efa94b73a61c5"
+    "/poems/scripts-KAO5YISW.js": "a0ab56e0f7fb0fef520bb1a756f7b34f6030a5f7",
+    "/poems/styles-NFUWV2O2.css": "5754ff1a1228da14ff4c2e2dd46bb49e2733d956"
   },
   "navigationUrls": [
     {
