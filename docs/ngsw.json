@@ -1,8 +1,8 @@
 {
   "configVersion": 1,
-  "timestamp": 1771792769473,
+  "timestamp": 1771793476492,
   "appData": "PoetryApp ServiceWorker",
-  "index": "/poets/index.html",
+  "index": "/poems/index.html",
   "assetGroups": [
     {
       "name": "appRoot",
@@ -12,7 +12,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/poets/styles-AKUKCVTF.css"
+        "/poems/styles-AKUKCVTF.css"
       ],
       "patterns": []
     },
@@ -24,14 +24,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/poets/chunk-5YRUHABH.js",
-        "/poets/chunk-OCBIUT7X.js",
-        "/poets/chunk-OSI6EXNN.js",
-        "/poets/chunk-QKT3IIL2.js",
-        "/poets/chunk-RHKNNUDD.js",
-        "/poets/main-EOFAY53N.js",
-        "/poets/polyfills-X3BJEV4D.js",
-        "/poets/scripts-B3WH5H6U.js"
+        "/poems/chunk-5YRUHABH.js",
+        "/poems/chunk-OCBIUT7X.js",
+        "/poems/chunk-OSI6EXNN.js",
+        "/poems/chunk-QKT3IIL2.js",
+        "/poems/chunk-RHKNNUDD.js",
+        "/poems/main-EOFAY53N.js",
+        "/poems/polyfills-X3BJEV4D.js",
+        "/poems/scripts-B3WH5H6U.js"
       ],
       "patterns": []
     },
@@ -43,25 +43,25 @@
         "ignoreVary": true
       },
       "urls": [
-        "/poets/assets/README.md",
-        "/poets/assets/ae-icons/icons.svg",
-        "/poets/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
-        "/poets/assets/icons/clipboard-copy.svg",
-        "/poets/assets/icons/fan.svg",
-        "/poets/assets/icons/icon-128x128.png",
-        "/poets/assets/icons/icon-144x144.png",
-        "/poets/assets/icons/icon-152x152.png",
-        "/poets/assets/icons/icon-192x192.png",
-        "/poets/assets/icons/icon-32x32.png",
-        "/poets/assets/icons/icon-384x384.png",
-        "/poets/assets/icons/icon-512x512.png",
-        "/poets/assets/icons/icon-72x72.png",
-        "/poets/assets/icons/icon-96x96.png",
-        "/poets/assets/icons/jian.svg",
-        "/poets/assets/themes/azure-blue.css",
-        "/poets/assets/themes/cyan-orange.css",
-        "/poets/assets/themes/magenta-violet.css",
-        "/poets/assets/themes/rose-red.css"
+        "/poems/assets/README.md",
+        "/poems/assets/ae-icons/icons.svg",
+        "/poems/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2",
+        "/poems/assets/icons/clipboard-copy.svg",
+        "/poems/assets/icons/fan.svg",
+        "/poems/assets/icons/icon-128x128.png",
+        "/poems/assets/icons/icon-144x144.png",
+        "/poems/assets/icons/icon-152x152.png",
+        "/poems/assets/icons/icon-192x192.png",
+        "/poems/assets/icons/icon-32x32.png",
+        "/poems/assets/icons/icon-384x384.png",
+        "/poems/assets/icons/icon-512x512.png",
+        "/poems/assets/icons/icon-72x72.png",
+        "/poems/assets/icons/icon-96x96.png",
+        "/poems/assets/icons/jian.svg",
+        "/poems/assets/themes/azure-blue.css",
+        "/poems/assets/themes/cyan-orange.css",
+        "/poems/assets/themes/magenta-violet.css",
+        "/poems/assets/themes/rose-red.css"
       ],
       "patterns": []
     },
@@ -73,8 +73,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/poets/media/material-symbols-outlined-latin-400-normal-GKNJ7WRV.woff",
-        "/poets/media/material-symbols-outlined-latin-400-normal-LP77RQBC.woff2"
+        "/poems/media/material-symbols-outlined-latin-400-normal-GKNJ7WRV.woff",
+        "/poems/media/material-symbols-outlined-latin-400-normal-LP77RQBC.woff2"
       ],
       "patterns": []
     }
@@ -123,36 +123,36 @@
     }
   ],
   "hashTable": {
-    "/poets/assets/README.md": "8102c741816b69d3a22b75764a591065b5756522",
-    "/poets/assets/ae-icons/icons.svg": "11c0126bbfbae7015c6d17a7946f3385862f07b5",
-    "/poets/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
-    "/poets/assets/icons/clipboard-copy.svg": "f45b60a2faea6534b1f9a09a58c00b3821503474",
-    "/poets/assets/icons/fan.svg": "849ea3320cad4020280e47c9663da502b6971562",
-    "/poets/assets/icons/icon-128x128.png": "3338795aeb34dd2f667de6cfb4b8039f9506bb1f",
-    "/poets/assets/icons/icon-144x144.png": "99b602be05a8a2584a027b5a2af26e03d2d2fb53",
-    "/poets/assets/icons/icon-152x152.png": "6b344c0c2220a871f1b832dd8db59c6d7572b866",
-    "/poets/assets/icons/icon-192x192.png": "efcbb1c4da58a414736dcefaff3233d381fc72c4",
-    "/poets/assets/icons/icon-32x32.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
-    "/poets/assets/icons/icon-384x384.png": "38de9b50b24001c4871431105b93604c86ecaeba",
-    "/poets/assets/icons/icon-512x512.png": "1d0002ec3f9445e04cb19164550e5f3d1f29fe24",
-    "/poets/assets/icons/icon-72x72.png": "8a8796e27874b989472e151cede0626c2368b305",
-    "/poets/assets/icons/icon-96x96.png": "005d363a7c6bcaf5befe7bc1413f0a39e0c07bd2",
-    "/poets/assets/icons/jian.svg": "378f17ab888b4e6171404ecd7895bb2565744a8d",
-    "/poets/assets/themes/azure-blue.css": "e0617464e355def4ce503cacc8d5b6604e53a51c",
-    "/poets/assets/themes/cyan-orange.css": "1f0dee1a1f0e3de3c50326a95302eeddae84fa55",
-    "/poets/assets/themes/magenta-violet.css": "ba620d04fc0c2c6df9a2f0cffb2e00f217a7f6e3",
-    "/poets/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
-    "/poets/chunk-5YRUHABH.js": "1d011f6aba43e7ee89f150061931ac530ee8e183",
-    "/poets/chunk-OCBIUT7X.js": "9384113757d9d7a094165382c4de56c6c435b2a2",
-    "/poets/chunk-OSI6EXNN.js": "fafeed270a52cbddb32ac540eb4e71ba403c9e5b",
-    "/poets/chunk-QKT3IIL2.js": "8b9033c815bbfa46fbce5d55f4cf7f45f06124b7",
-    "/poets/chunk-RHKNNUDD.js": "0c4c259d4929e5c5b424958f3498207a42424e02",
-    "/poets/main-EOFAY53N.js": "3d3152f3b97f55bc141c9659f5fe3dff23fb4b0d",
-    "/poets/media/material-symbols-outlined-latin-400-normal-GKNJ7WRV.woff": "7e01797717207947666234d8ccaceae8413bd092",
-    "/poets/media/material-symbols-outlined-latin-400-normal-LP77RQBC.woff2": "e26e2ce3de446f62a124fe1022023956275b87fe",
-    "/poets/polyfills-X3BJEV4D.js": "74022bd48b89f67ea3bbcf0af51aa4e304a0d1d4",
-    "/poets/scripts-B3WH5H6U.js": "a25fc8252365211624b365640d7593e373cb80cb",
-    "/poets/styles-AKUKCVTF.css": "1f0e94e8d261969414daa84ffea85661d13137fd"
+    "/poems/assets/README.md": "8102c741816b69d3a22b75764a591065b5756522",
+    "/poems/assets/ae-icons/icons.svg": "11c0126bbfbae7015c6d17a7946f3385862f07b5",
+    "/poems/assets/fonts/roboto-v30-latin/roboto-v30-latin-regular.woff2": "7ca9c5967f3bb8bffeab24b639b49c1e7d03fa52",
+    "/poems/assets/icons/clipboard-copy.svg": "f45b60a2faea6534b1f9a09a58c00b3821503474",
+    "/poems/assets/icons/fan.svg": "849ea3320cad4020280e47c9663da502b6971562",
+    "/poems/assets/icons/icon-128x128.png": "3338795aeb34dd2f667de6cfb4b8039f9506bb1f",
+    "/poems/assets/icons/icon-144x144.png": "99b602be05a8a2584a027b5a2af26e03d2d2fb53",
+    "/poems/assets/icons/icon-152x152.png": "6b344c0c2220a871f1b832dd8db59c6d7572b866",
+    "/poems/assets/icons/icon-192x192.png": "efcbb1c4da58a414736dcefaff3233d381fc72c4",
+    "/poems/assets/icons/icon-32x32.png": "cad0a2f9a302610fce73fae3690499c6f0a146da",
+    "/poems/assets/icons/icon-384x384.png": "38de9b50b24001c4871431105b93604c86ecaeba",
+    "/poems/assets/icons/icon-512x512.png": "1d0002ec3f9445e04cb19164550e5f3d1f29fe24",
+    "/poems/assets/icons/icon-72x72.png": "8a8796e27874b989472e151cede0626c2368b305",
+    "/poems/assets/icons/icon-96x96.png": "005d363a7c6bcaf5befe7bc1413f0a39e0c07bd2",
+    "/poems/assets/icons/jian.svg": "378f17ab888b4e6171404ecd7895bb2565744a8d",
+    "/poems/assets/themes/azure-blue.css": "e0617464e355def4ce503cacc8d5b6604e53a51c",
+    "/poems/assets/themes/cyan-orange.css": "1f0dee1a1f0e3de3c50326a95302eeddae84fa55",
+    "/poems/assets/themes/magenta-violet.css": "ba620d04fc0c2c6df9a2f0cffb2e00f217a7f6e3",
+    "/poems/assets/themes/rose-red.css": "fa29068e24eb9bfed32e166bbb02eef1589fbbb7",
+    "/poems/chunk-5YRUHABH.js": "1d011f6aba43e7ee89f150061931ac530ee8e183",
+    "/poems/chunk-OCBIUT7X.js": "9384113757d9d7a094165382c4de56c6c435b2a2",
+    "/poems/chunk-OSI6EXNN.js": "fafeed270a52cbddb32ac540eb4e71ba403c9e5b",
+    "/poems/chunk-QKT3IIL2.js": "8b9033c815bbfa46fbce5d55f4cf7f45f06124b7",
+    "/poems/chunk-RHKNNUDD.js": "0c4c259d4929e5c5b424958f3498207a42424e02",
+    "/poems/main-EOFAY53N.js": "3d3152f3b97f55bc141c9659f5fe3dff23fb4b0d",
+    "/poems/media/material-symbols-outlined-latin-400-normal-GKNJ7WRV.woff": "7e01797717207947666234d8ccaceae8413bd092",
+    "/poems/media/material-symbols-outlined-latin-400-normal-LP77RQBC.woff2": "e26e2ce3de446f62a124fe1022023956275b87fe",
+    "/poems/polyfills-X3BJEV4D.js": "74022bd48b89f67ea3bbcf0af51aa4e304a0d1d4",
+    "/poems/scripts-B3WH5H6U.js": "a25fc8252365211624b365640d7593e373cb80cb",
+    "/poems/styles-AKUKCVTF.css": "1f0e94e8d261969414daa84ffea85661d13137fd"
   },
   "navigationUrls": [
     {
